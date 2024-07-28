@@ -1,0 +1,1 @@
+export const menu = ["About", "Profile Image", "Education", "Video", "Availability", "Subjects & Pricing"]
